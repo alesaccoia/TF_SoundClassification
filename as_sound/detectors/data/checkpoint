@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Volumes/Data/WORK/alsc/Projects/alsc/Python/SoundRecognition/as_sound/detectors/data/vadModel_ANN_5FCL.chkp"
+all_model_checkpoint_paths: "/Volumes/Data/WORK/alsc/Projects/alsc/Python/SoundRecognition/as_sound/detectors/data/vadModel_ANN_5FCL.chkp"
